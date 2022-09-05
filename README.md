@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy florencia</h1>
-<h3 align="center">Desarrollador frontend apasionado de Argentina</h3>
+<h1 align="center">Hola 👋, soy florencia cruz</h1>
+<h3 align="center">estudiante de informatica de Argentina</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=florenciacruz&label=Profile%20views&color=0e75b6&style=flat" alt="florenciacruz" /> </p>
 
